@@ -1,0 +1,20 @@
+img {
+    height: 12rem;
+    width: 14rem;
+    margin: 1rem;
+}
+
+div {
+    border: 2px solid green;
+    width: 50rem;
+    height: 28rem;
+    margin: auto auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    height: 3rem;
+}
